@@ -1,4 +1,4 @@
-<img width="405" height="720" alt="复原步骤" src="https://github.com/user-attachments/assets/b9f8dc0f-3aae-4f81-ba75-8aaad825d0f3" /># CUBOT: 自动魔方复原机器人 🤖
+# CUBOT: 自动魔方复原机器人 🤖
 
 本项目是一个低成本、高精度的自动化魔方复原系统。系统摒弃了昂贵的工业相机方案，采用普通安卓手机作为视觉传感器，通过 PC 端进行算法推导，并由 Arduino 控制机械结构完成物理复原。
 
